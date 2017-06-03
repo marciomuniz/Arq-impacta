@@ -1,0 +1,18 @@
+1 - 
+
+Ja temos
+
+Casos de uso
+Descrição dos cenários
+Requisitos funcionais
+Requisitos não-funcionais (incluindo atributos de qualidade, tais como
+performance, segurança, confiabilidade etc.)
+
+Requisitos tecnológicos
+
+Ainda não foram obtidos
+
+
+Ambiente de implantação
+Outras restrições
+

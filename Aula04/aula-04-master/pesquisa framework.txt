@@ -1,0 +1,18 @@
+Arquitetura baseada em componentes (component-based)
+
+Earth System Modeling Framework
+-Facilidade de implantação
+
+Message Bus
+
+Enterprise service bus
+-Baixa complexidade
+
+Service-Oriented Architecture (SOA)
+
+SOALIB
+
+-Aumento de oportunidades de
+negócios e redução de custos
+
+
